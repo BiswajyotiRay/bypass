@@ -15,7 +15,7 @@ url = "https://shortingly.me/qaXpNHm"  #@param {type:"string"}
 NOTE: 
 SUPPORTED DOMAINS:
  - rocklinks.net
- - gtlinks.me
+ - gyanilinks.com or gtlinks.me
  - shortingly.me
  
  
@@ -26,8 +26,8 @@ def bypass(url):
     client = cloudscraper.create_scraper(allow_brotli=False)
     if 'rocklinks.net' in url:
         DOMAIN = "https://rl.techysuccess.com"
-    elif 'gtlinks.me' in url:
-        DOMAIN = "https://go.kinemaster.cc"
+    elif 'gyanilinks.com' in url or 'gtlinks.me' in url:
+        DOMAIN = "https://go.theforyou.in/"
     elif 'shortingly.me' in url:
         DOMAIN = "https://go.gyanitheme.com"
     else:

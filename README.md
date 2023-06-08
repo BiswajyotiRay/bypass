@@ -1,9 +1,9 @@
 # Bypass 
 
-<b>Can Bypass RockLinks, gtlinks and shortingly Links 🔥</b><br>
+<b>Can Bypass RockLinks, gyanilinks, gtlinks and shortingly Links 🔥</b><br>
 
 
 <b><i>LookAlike Supported Sites :</i></b>
  - rocklinks.net
- - gtlinks.me
+ - gyanilinks.com or gtlinks.me
  - shortingly.me
